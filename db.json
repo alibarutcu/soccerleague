@@ -1,0 +1,27 @@
+{
+  "teams1":[
+       {"id": 1, "name": "Fenerbahçe"},
+       {"id": 2,"name": "Galatasaray"},
+       {"id": 3,"name": "Beşiktaş"},
+       {"id": 4, "name": "Trabzonspor"}     
+  ],
+  
+  "teams2":[
+       {"id": 1, "name": "Aston Villa"},
+       {"id": 2,"name": "Manchester City"},
+       {"id": 3,"name": "Tottenham Hotspur"},
+       {"id": 4, "name": "Chelsea"},
+       {"id": 5,"name": "Everton"},
+       {"id": 6,"name": "Arsenal"},
+       {"id": 7, "name": "Watford"},
+       {"id": 8,"name": "Leicester City"},
+       {"id": 9,"name": "Fullham"}
+  ],
+  
+   "teams3":[
+       {"id": 1, "name": "Valencia"},
+       {"id": 2,"name": "Real Madrid"},
+       {"id": 3,"name": "Barcelona"}
+    
+  ]
+}
