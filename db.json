@@ -15,14 +15,7 @@
        {"id": 6,"name": "Arsenal"},
        {"id": 7, "name": "Watford"},
        {"id": 8,"name": "Leicester City"},
-       {"id": 9,"name": "Fullham"},
-       {"id": 1, "name": "Fenerbahçe"},
-       {"id": 2,"name": "Galatasaray"},
-       {"id": 3,"name": "Beşiktaş"},
-        {"id": 4, "name": "Trabzonspor"},
-        {"id": 1, "name": "Valencia"},
-       {"id": 2,"name": "Real Madrid"},
-       {"id": 3,"name": "Barcelona"}
+       {"id": 9,"name": "Fullham"}
   ],
   
    "teams3":[
@@ -31,4 +24,5 @@
        {"id": 3,"name": "Barcelona"}
     
   ]
+  
 }
